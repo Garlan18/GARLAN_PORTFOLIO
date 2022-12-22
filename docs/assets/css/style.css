@@ -194,3 +194,67 @@
   
   .navbar-link:is(:hover, :focus)::before { width: 100%; }
 
+  /*-----------------------------------*\
+   * #HERO
+  \*-----------------------------------*/
+  
+  main { overflow-x: hidden; }
+ 
+  .hero {
+    
+    min-height: 100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding-top: 110px;
+    margin-bottom: var(--section-padding);
+  }
+  
+  .hero-banner {
+    max-width: 400px;
+    width: 100%;
+    
+  }
+  
+  :is(.hero-social-list, .scroll-down) { display: none; }
+  
+  .hero-content { max-width: 1000px; }
+
+  .hero-social-link{
+    color: #aaaa;
+    margin-right: 900px;
+  }
+  .hero-text {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+
+  
+  .hero-title {
+    flex: 1 1 20rem;
+    padding-top: auto;
+    z-index: 1;
+    text-align: center;
+    margin: auto;
+    font-size: 50px;
+    line-height: 50px;
+    color: transparent;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    background: url(/docs/assets/images/back.png);
+    -webkit-background-clip: text;
+    background-position: 0 0;
+    animation: back 20s linear infinite;
+
+  }
+  
+ @keyframes back{
+100%{
+  background-position: 2000px 0;
+}
+ }
+
+  .hero .btn-primary { margin-inline: auto; }
+  
+
