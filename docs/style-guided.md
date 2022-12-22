@@ -20,3 +20,13 @@ Ionicon
 ```
 
 ---
+
+## Colors
+
+``` css
+--raw-seinna: hsl(24, 74%, 58%);
+--sizzling-sunrise: hsl(51, 95%, 54%);
+--scarlet: hsl(13, 96%, 47%);
+--black: hsl(0, 0%, 0%);
+--white: hsl(0, 0%, 100%);
+```
