@@ -436,4 +436,15 @@
     100% { opacity: 1; }
   
   }
+  .skill-card {
+    position: relative;
+    background: hsl(0, 0%, 24%);
+    width: 80px;
+    height: 80px;
+    display: grid;
+    place-items: center;
+    border-radius: var(--radius-12);
+    box-shadow: var(--shadow-1);
+    color: white;
+  }
 
