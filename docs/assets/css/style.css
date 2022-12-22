@@ -713,6 +713,17 @@
     .container { max-width: 720px; }
   
     .section-title { max-width: 430px; }
+
+    /**
+     * ABOUT
+     */
+  
+     .btn-group {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 20px;
+    }
   
   
   
