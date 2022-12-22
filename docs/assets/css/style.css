@@ -547,13 +547,24 @@
   }
   .contact-info:not(address):is(:hover, :focus) { color: var(--color-primary); }
   
-  .contac-social-list {
+  .contact-social-list {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
     align-items: center;
     gap: 15px;
     padding-inline: 40px;
+  }
+  .contact-social-link {
+    position: relative;
+    background: var(--color-primary);
+    color: var(--bg-primary);
+    width: 35px;
+    height: 35px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    transition: var(--transition-1);
   }
   
 
