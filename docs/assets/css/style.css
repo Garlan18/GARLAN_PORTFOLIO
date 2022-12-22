@@ -739,6 +739,33 @@
     }
   
   }
+
+  /**
+   * responsive for larger than 992px screen
+   */
+  
+   @media (min-width: 992px) {
+  
+    /**
+     * CUSTOM PROPERTY
+     */
+  
+    :root {
+  
+      /**
+       * typography
+       */
+  
+      --fs-2: 3rem;
+  
+      /**
+       * spacing
+       */
+  
+      --section-padding: 100px;
+  
+    }
+  
   
   
 
