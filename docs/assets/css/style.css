@@ -305,5 +305,8 @@
     transform: scale(1.03);
     box-shadow: 1rem 0.5rem 1.2rem rgba(0, 0, 0, 0.3);
   }
-  
+  .resume .box-container .box .image {
+    flex: 1 1 20rem;
+    width: 100%;
+  }
 
