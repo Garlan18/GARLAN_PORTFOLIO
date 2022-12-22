@@ -531,6 +531,10 @@
     gap: 15px;
     margin-bottom: 20px;
   }
+  .contact-item-icon {
+    font-size: 25px;
+    color: var(--color-primary);
+  }
   
 
 
