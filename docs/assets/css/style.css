@@ -815,6 +815,21 @@
        font-size: unset;
        padding-inline: 5px;
      }
+
+     .navbar-list > li {
+      margin: 0;
+      padding: 0;
+      overflow: visible;
+    }
+  
+    .navbar-list {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+    }
+  
+    .navbar-link::before { height: 2px; }
    
   
   
