@@ -666,6 +666,16 @@
     transform: translateY(0);
   }
   
+   /*-----------------------------------*\
+   * #MEDIA QUERIES
+  \*-----------------------------------*/
+  
+  /**
+   * responsive for larger than 550px screen
+   */
+  
+   @media (min-width: 550px) {
+  
   
   
   
