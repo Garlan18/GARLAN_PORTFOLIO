@@ -55,3 +55,9 @@ Ionicon
 ``` css
 --transition-1: 0.25s ease-in-out;
 ```
+
+## Spacing
+
+``` css
+--section-padding: 80px;
+```
