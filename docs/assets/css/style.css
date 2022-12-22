@@ -535,6 +535,9 @@
     font-size: 25px;
     color: var(--color-primary);
   }
+  .contact-item-icon ion-icon { --ionicon-stroke-width: 40px; }
+  
+  .contact-item-title { margin-bottom: 10px; }
   
 
 
