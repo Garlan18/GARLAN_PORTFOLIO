@@ -357,4 +357,12 @@
     .resume .box-container .box img {
       width: 100%;
     }
+    .resume .box-container .box .content {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      padding: 1rem;
+      flex-wrap: wrap;
+      flex: 0;
+    }
 
