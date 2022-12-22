@@ -393,4 +393,16 @@
     z-index: 1;
     
   }
+  .skills-toggle::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    bottom: 5px;
+    width: 93px;
+    background: var(--raw-seinna);
+    border-radius: 100px;
+    transition: var(--transition-1);
+    z-index: -1;
+  }
 
