@@ -456,5 +456,13 @@
     opacity: 1;
   }
 
+   /*-----------------------------------*\
+   * #PROJECT
+  \*-----------------------------------*/
+  
+  .project { padding-block: var(--section-padding); }
+  
+  .project-list > li { margin-bottom: 20px; }
+
 
 
