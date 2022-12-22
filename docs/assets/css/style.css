@@ -729,6 +729,16 @@
   
     .about .btn-secondary { margin-bottom: 0; }
   
+    /**
+     * CONTACT
+     */
+  
+     .contact-form {
+      max-width: 450px;
+      margin-inline: auto;
+    }
+  
+  }
   
   
 
