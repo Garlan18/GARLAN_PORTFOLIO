@@ -30,3 +30,22 @@ Ionicon
 --black: hsl(0, 0%, 0%);
 --white: hsl(0, 0%, 100%);
 ```
+
+## Typography
+
+``` css
+--ff-saira-stencil-one: "Saira Stencil One", sans-serif; 
+--ff-poppins: 'Poppins', sans-serif;
+--ff-roboto: 'Roboto', sans-serif;
+
+--fs-1: 2rem;
+--fs-2: calc(1.813rem + 1vw);
+--fs-3: calc(1.313rem + 1vw);
+--fs-4: 1.4rem;
+--fs-5: 1rem;
+--fs-6: 0.813rem;
+--fs-7: 0.75rem;
+
+--fw-400: 400;
+--fw-700: 700;
+```
