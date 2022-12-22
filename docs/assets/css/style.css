@@ -193,7 +193,4 @@
   }
   
   .navbar-link:is(:hover, :focus)::before { width: 100%; }
-  
-  
-  
-}
+
