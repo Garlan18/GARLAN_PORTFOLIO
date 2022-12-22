@@ -616,6 +616,13 @@
 
   .input-field:focus + ion-icon { color: var(--raw-seinna); }
   
+  .contact .btn-primary {
+    max-width: unset;
+    width: 100%;
+    background: var(--color-primary);
+    color: var(--bg-primary);
+  }
+  
   
 
 
