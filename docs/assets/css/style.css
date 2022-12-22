@@ -840,6 +840,12 @@
       padding-top: 0;
       height: 100vh;
     }
+
+    .hero-banner {
+      max-width: unset;
+      height: 100%;
+      margin-bottom: 0;
+    }
    
   
   
