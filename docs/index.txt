@@ -1,0 +1,72 @@
+Lovely Jane Garlan Portfolio
+
+# HEADER
+
+Lovely.
+
+En
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Home
+About
+Resume
+Projects
+Contact
+
+
+
+# HERO
+
+LOVELY JANE S. GARLAN
+
+Get in touch
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-twitter"></ion-icon>
+Twitter
+
+
+Scroll
+
+
+
+# ABOUT
+
+
+About me
+
+Who Am I
+
+Welcome to my corner of internet. I’m glad you’re here! I’m a thrid year college at Sorsogon State University taking up Bachelor of Science in Information Technology. I enjoy playing with colors. I love editing, photography, traveling, and dancing. My key strength are visual & interaction design. I am hard working and passionate towards my work.
+
+
+Download cv
+
+
+
+# Resume
+
+Education
+
+2020 - Present
+Bachelor of Science in Information Technology
+Sorsogon State University
+
+2018 - 2020
+Computer System Servicing
+Bulan National High School
+
+2016 - 2018
+Grade 9 - 10
+San Juan Bag-o High School
+
+2014 - 2016
+Grade 7 - 8
+Caloocan High School
