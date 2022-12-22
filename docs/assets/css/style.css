@@ -938,7 +938,17 @@
     }
   
     .about-banner { margin-bottom: 0; }
-  
+
+    /**
+     * RESUME
+     */
+     .resume {
+      display: grid;
+      grid-template-columns:auto; 
+      gap: 30px;
+    
+     
+    }
   
   
    
