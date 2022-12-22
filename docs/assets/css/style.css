@@ -898,6 +898,11 @@
       top: 50%;
       transform: translateY(-50%) translateX(var(--trans-x));
     }
+
+    .hero-social-link:is(:hover, :focus) .tooltip {
+      --trans-x: 0;
+      opacity: 1;
+    }
   
   
   
