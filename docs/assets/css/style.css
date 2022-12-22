@@ -409,4 +409,10 @@
     left: 98px;
     width: 94px;
   }
+  .toggle-btn {
+    color: var(--color-);
+    font-family: var(--ff-poppins);
+    padding: 5px 25px;
+    transition: var(--transition-1);
+  }
 
