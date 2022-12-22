@@ -499,5 +499,10 @@
     opacity: 0;
     transition: var(--transition-1);
   }
+  .project-card .publish-date {
+    font-size: var(--fs-6);
+    color: var(--color-primary);
+    transition-delay: 0s;
+  }
 
 
