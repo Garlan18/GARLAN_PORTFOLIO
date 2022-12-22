@@ -470,6 +470,12 @@
     border-radius: var(--radius-12);
     box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
   }
-
+  .project-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    transition: var(--transition-1);
+  }
 
 
