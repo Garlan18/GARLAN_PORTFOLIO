@@ -44,6 +44,8 @@ navToggleBtn.addEventListener("click", function () {
 
 });
 
+
+
 /**
  * skills toggle
  */
@@ -61,4 +63,3 @@ for (let i = 0; i < toggleBtns.length; i++) {
 
   });
 }
-
