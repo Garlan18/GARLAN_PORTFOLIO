@@ -481,5 +481,12 @@
     background: hsla(0, 0%, 100%, 0.1);
     backdrop-filter: blur(0.5px);
   }
+  .project-card .card-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+  }
 
 
