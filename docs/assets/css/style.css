@@ -590,6 +590,14 @@
     margin-left: 5px;
   }
   .input-wrapper { position: relative; }
+  .input-field {
+    background: var(--input-bg);
+    color: var(--raw-seinna);
+    padding: 10px;
+    padding-left: 40px;
+    border-radius: var(--radius-12);
+    transition: var(--transition-1);
+  }
   
 
 
