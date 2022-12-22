@@ -991,6 +991,20 @@
     .contact-form { width: 100%; }
   
     .contact-list { margin-left: -40px; }
+
+    /**
+     * FOOTER
+     */
+  
+     .footer .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  
+    .footer .logo { margin-bottom: 0; }
+  
+  }
   
    
   
