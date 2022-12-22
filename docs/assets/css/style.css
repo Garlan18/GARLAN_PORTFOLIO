@@ -598,6 +598,14 @@
     border-radius: var(--radius-12);
     transition: var(--transition-1);
   }
+  .input-wrapper ion-icon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: var(--color-secondary);
+    font-size: 20px;
+    transition: var(--transition-1);
+  }
   
 
 
