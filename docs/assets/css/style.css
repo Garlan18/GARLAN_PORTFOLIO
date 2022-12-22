@@ -925,6 +925,19 @@
       height: 2px;
       background: var(--color-secondary);
     }
+
+    /**
+     * ABOUT
+     */
+  
+     .about {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      align-items: center;
+      gap: 30px;
+    }
+  
+    .about-banner { margin-bottom: 0; }
   
   
   
