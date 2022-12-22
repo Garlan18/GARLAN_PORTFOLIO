@@ -975,6 +975,23 @@
        margin: 25px;
        margin-left: 0;
      }
+    
+      /**
+     * CONTACT
+     */
+  
+    .contact {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 30px;
+    }
+  
+    .contact-content { margin-bottom: 0; }
+  
+    .contact-form { width: 100%; }
+  
+    .contact-list { margin-left: -40px; }
+  
    
   
   
