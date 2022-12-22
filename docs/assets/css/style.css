@@ -765,6 +765,18 @@
       --section-padding: 100px;
   
     }
+
+    /**
+     * REUSED STYLE
+     */
+  
+     .container { max-width: 980px; }
+  
+     .section-content {
+       position: relative;
+       padding-left: 40px;
+     }
+   
   
   
   
