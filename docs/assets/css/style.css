@@ -791,6 +791,21 @@
       left: auto;
       right: calc(100% + 20px);
     }
+
+    
+     /**
+     * HEADER
+     */
+  
+     .header { padding-block: 30px; }
+  
+     .header.active { padding-block: 15px; }
+   
+     .navbar-actions {
+       order: 1;
+       margin-left: 0;
+     }
+   
   
   
   
