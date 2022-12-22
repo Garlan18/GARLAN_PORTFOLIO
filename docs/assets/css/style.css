@@ -613,6 +613,9 @@
     resize: vertical;
   }
   .input-field:focus { outline: 1px solid; }
+
+  .input-field:focus + ion-icon { color: var(--raw-seinna); }
+  
   
 
 
