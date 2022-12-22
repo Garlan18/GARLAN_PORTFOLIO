@@ -852,6 +852,24 @@
       width: auto;
       margin-inline: auto;
     }
+
+    .hero-content {
+      --color-primary: var(--white);
+  
+      position: absolute;
+      top: 50%;
+      filter: drop-shadow(2px 4px 10px var(--black));
+    }
+  
+    .hero .btn-primary:is(:hover, :focus) { color: hsl(0, 0%, 12%); }
+  
+    .hero-social-list {
+      display: block;
+      position:relative;
+      bottom: 92px;
+      left: -30px;
+    }
+  
    
   
   
