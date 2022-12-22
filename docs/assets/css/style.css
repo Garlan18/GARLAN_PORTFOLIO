@@ -477,5 +477,9 @@
     border-radius: inherit;
     transition: var(--transition-1);
   }
+  .project-card:is(:hover, :focus)::after {
+    background: hsla(0, 0%, 100%, 0.1);
+    backdrop-filter: blur(0.5px);
+  }
 
 
