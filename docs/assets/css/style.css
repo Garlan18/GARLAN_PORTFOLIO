@@ -517,5 +517,13 @@
     margin-inline: auto;
   }
   
+  /*-----------------------------------*\
+   * #CONTACT
+  \*-----------------------------------*/
+  
+  .contact { padding-block: var(--section-padding); }
+  
+  .contact-content { margin-bottom: 50px; }
+  
 
 
