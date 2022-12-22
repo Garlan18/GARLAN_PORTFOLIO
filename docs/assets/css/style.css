@@ -612,6 +612,7 @@
     max-height: 200px;
     resize: vertical;
   }
+  .input-field:focus { outline: 1px solid; }
   
 
 
