@@ -792,7 +792,7 @@
       right: calc(100% + 20px);
     }
 
-    
+
      /**
      * HEADER
      */
@@ -804,6 +804,16 @@
      .navbar-actions {
        order: 1;
        margin-left: 0;
+     }
+
+     .nav-toggle-btn { display: none; }
+  
+     .navbar { all: unset; }
+   
+     .navbar-link {
+       transform: translateY(0);
+       font-size: unset;
+       padding-inline: 5px;
      }
    
   
