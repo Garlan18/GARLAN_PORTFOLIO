@@ -1019,6 +1019,14 @@
     .container { max-width: 1150px; }
   
     .section-title { max-width: 460px; }
+
+    /**
+     * HERO
+     */
+  
+     .hero-social-list { left: -80px; }
+  
+     .scroll-down { right: -80px; }
   
   
    
