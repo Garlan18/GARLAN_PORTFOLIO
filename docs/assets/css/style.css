@@ -447,4 +447,8 @@
     box-shadow: var(--shadow-1);
     color: white;
   }
+  .skill-card:is(:hover, :focus) {
+    background: var(--raw-seinna);
+    color: var(--white);
+  }
 
