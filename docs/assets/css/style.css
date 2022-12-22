@@ -699,6 +699,20 @@
     .project-list > li:first-child { column-span: all; }
   
   }
+
+  /**
+   * responsive for larger than 768px screen
+   */
+  
+   @media (min-width: 768px) {
+  
+    /**
+     * REUSED STYLE
+     */
+  
+    .container { max-width: 720px; }
+  
+    .section-title { max-width: 430px; }
   
   
   
