@@ -1005,6 +1005,21 @@
     .footer .logo { margin-bottom: 0; }
   
   }
+
+  /**
+   * responsive for larger than 1200px screen
+   */
+  
+   @media (min-width: 1200px) {
+  
+    /**
+     * REUSED STYLE
+     */
+  
+    .container { max-width: 1150px; }
+  
+    .section-title { max-width: 460px; }
+  
   
    
   
