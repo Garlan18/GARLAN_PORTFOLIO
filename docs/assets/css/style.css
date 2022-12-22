@@ -676,6 +676,18 @@
   
    @media (min-width: 550px) {
   
+    /**
+     * REUSED STYLE
+     */
+  
+     .container {
+      max-width: 550px;
+      margin-inline: auto;
+    }
+  
+    .section-title { max-width: 380px; }
+  
+  
   
   
   
