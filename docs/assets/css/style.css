@@ -903,6 +903,28 @@
       --trans-x: 0;
       opacity: 1;
     }
+
+    .scroll-down {
+      display: block;
+      position: absolute;
+      bottom: 80px;
+      right: -30px;
+      color: var(--color-secondary);
+      font-size: 1.125rem;
+      text-transform: uppercase;
+      transform: rotate(90deg);
+      transform-origin: top right;
+    }
+  
+    .scroll-down::after {
+      content: "";
+      position: absolute;
+      top: 8px;
+      right: -50px;
+      width: 30px;
+      height: 2px;
+      background: var(--color-secondary);
+    }
   
   
   
