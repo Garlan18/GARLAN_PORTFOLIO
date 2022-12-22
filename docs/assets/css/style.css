@@ -686,8 +686,19 @@
     }
   
     .section-title { max-width: 380px; }
+
+  /**
+     * PROJECT
+     */
   
+     .project-list {
+      column-count: 2;
+      column-gap: 25px;
+    }
   
+    .project-list > li:first-child { column-span: all; }
+  
+  }
   
   
   
