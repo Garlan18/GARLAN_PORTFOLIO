@@ -504,5 +504,9 @@
     color: var(--color-primary);
     transition-delay: 0s;
   }
+  .project-card:is(:hover, :focus) :is(.card-title, .publish-date) {
+    transform: translateY(0);
+    opacity: 1;
+  }
 
 
