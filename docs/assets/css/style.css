@@ -776,6 +776,15 @@
        position: relative;
        padding-left: 40px;
      }
+
+     .section-subtitle {
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: rotate(0.75turn) translateX(-100%);
+      transform-origin: left top;
+      margin-bottom: 0;
+    }
    
   
   
