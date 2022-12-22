@@ -830,6 +830,16 @@
     }
   
     .navbar-link::before { height: 2px; }
+
+    /**
+     * HERO
+     */
+  
+     .hero {
+      position: relative;
+      padding-top: 0;
+      height: 100vh;
+    }
    
   
   
