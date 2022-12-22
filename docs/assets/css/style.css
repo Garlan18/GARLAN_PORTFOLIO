@@ -488,5 +488,16 @@
     width: 100%;
     padding: 20px;
   }
+  .project-card .card-title { margin-bottom: 10px; }
+  
+  .project-card :is(.card-title, .publish-date) {
+    background: var(--bg-primary);
+    padding: 6px 12px;
+    width: max-content;
+    box-shadow: var(--shadow-1);
+    transform: translateY(20px);
+    opacity: 0;
+    transition: var(--transition-1);
+  }
 
 
