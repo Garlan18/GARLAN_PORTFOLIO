@@ -464,5 +464,12 @@
   
   .project-list > li { margin-bottom: 20px; }
 
+  .project-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: var(--radius-12);
+    box-shadow: 2px 4px 6px hsla(0, 0%, 0%, 0.2);
+  }
+
 
 
