@@ -888,6 +888,17 @@
       font-size: 18px;
       transition: var(--transition-1);
     }
+
+    .hero-social-link:is(:hover, :focus) { color: var(--color-primary); }
+  
+    .hero-social-link .tooltip {
+      --trans-x: 10px;
+  
+      left: calc(100% + 10px);
+      top: 50%;
+      transform: translateY(-50%) translateX(var(--trans-x));
+    }
+  
   
   
    
