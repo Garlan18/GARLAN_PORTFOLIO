@@ -525,7 +525,12 @@
   
   .contact-content { margin-bottom: 50px; }
 
-  
+  .contact-list-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
   
 
 
