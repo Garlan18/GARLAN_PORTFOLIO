@@ -276,5 +276,18 @@
   }
 
   .about .btn-secondary { margin-bottom: 10px; }
+
+    /*-----------------------------------*\
+   * #RESUME
+  \*-----------------------------------*/
+
+  .resume .box-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
   
 
