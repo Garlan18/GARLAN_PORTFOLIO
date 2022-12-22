@@ -405,4 +405,8 @@
     transition: var(--transition-1);
     z-index: -1;
   }
+  .skills-toggle.active::before {
+    left: 98px;
+    width: 94px;
+  }
 
