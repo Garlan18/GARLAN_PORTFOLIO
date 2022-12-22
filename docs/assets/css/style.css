@@ -451,4 +451,9 @@
     background: var(--raw-seinna);
     color: var(--white);
   }
+  .skill-card:is(:hover, :focus) .tooltip {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  
 
