@@ -344,4 +344,10 @@
     font-family: "Nunito", sans-serif;
     font-weight: 700;
   }
+  /* education media queries starts*/
+  @media screen and (max-width: 600px) {
+    .resume .box-container .box {
+      flex-direction: column;
+      width: 100%;
+    }
 
