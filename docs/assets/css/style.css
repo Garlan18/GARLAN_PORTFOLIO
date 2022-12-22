@@ -1027,6 +1027,14 @@
      .hero-social-list { left: -80px; }
   
      .scroll-down { right: -80px; }
+
+     /**
+     * ABOUT
+     */
+  
+    .about-banner { max-width: 450px; }
+  
+  }
   
   
    
