@@ -49,3 +49,9 @@ Ionicon
 --fw-400: 400;
 --fw-700: 700;
 ```
+
+## Transition
+
+``` css
+--transition-1: 0.25s ease-in-out;
+```
