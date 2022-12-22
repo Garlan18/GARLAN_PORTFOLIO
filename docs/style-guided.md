@@ -61,3 +61,12 @@ Ionicon
 ``` css
 --section-padding: 80px;
 ```
+
+## Border radius
+
+``` css
+--radius-4: 4px;
+--radius-12: 12px;
+```
+
+---
